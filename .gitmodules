@@ -1,0 +1,4 @@
+[submodule "NateSite/public"]
+	path = NateSite/public
+	url = git@github.com:naheller/naheller.github.io.git
+	branch = master
