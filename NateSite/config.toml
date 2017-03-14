@@ -24,7 +24,7 @@ author = "Nathan Heller"
 intro = "read | write | code | roam"
 description = "I'm Nathan Heller, a Computer Science student at the University of Oregon and an Internal Training Intern at [CBT Nuggets](https://www.cbtnuggets.com)."
 description2 = "My current projects include an Android app called [Leafit](https://github.com/naheller/Leafit-Android) and this website, which is statically generated using [Hugo](https://gohugo.io) and hosted on GitHub Pages."
-description3 = "Currently reading: [Red Notice](https://www.goodreads.com/book/show/22609522-red-notice)"
+description3 = "Currently reading: [Hillbilly Elegy](https://www.goodreads.com/book/show/27161156-hillbilly-elegy)"
 authorimage = "nate.jpg"
 dateformat = "Jan 2, 2006"
 
@@ -56,11 +56,6 @@ hightlightjs = true
     weight = 100
     identifier = "blog"
     url = "/blog/"
-[[menu.main]]
-    name = "about"
-    identifier = "about"
-    weight = 200
-    url = "/about/"
 [[menu.main]]
     name = "projects"
     identifier = "projects"
