@@ -68,3 +68,7 @@ Opinion Editor --- 2012
 Editorial Intern --- 2012
 
 *Wrote for and edited the magazine's online blog using the Rivista CMS. Researched and cataloged local businesses in order to keep advertisement slots up-to-date.*
+
+---
+
+Download a PDF copy of my resume [here](NathanHeller-Resume.pdf).
